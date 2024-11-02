@@ -27,7 +27,7 @@ Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm tr
 - Nguyễn Thanh Bình - Đồng tác giả: [GitHub](https://github.com/thanhbinhtest)
 - Trần Đăng Khôi - Đồng tác giả: [GitHub](https://github.com/Trandangkhoihp193)
 - Thới Trần Ngọc Thạch - Đồng tác giả: [GitHub](https://github.com/ngocthach041104)
-- Nguyễn Văn Thanh Nhã - Đồng tác giả: [GitHub](https://github.com/cuonghuynh191)
+- Nguyễn Văn Thanh Nhã - Đồng tác giả: [GitHub](https://github.com/nhavan248)
 
 
 ### Kiến thức áp dụng
