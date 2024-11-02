@@ -9,7 +9,7 @@ Trong những năm gần đây, ngành Kỹ Thuật Phần Mềm đã phát tri�
 
 ### Mô tả và mục tiêu dự án
 
-#### Mô TẢ:
+#### Mô tả:
 **Website VySoul Cosmetic** được xây dựng bằng PHP và sử dụng mô hình MVC, hỗ trợ quản lý cửa hàng bán mỹ phẩm với các chức năng:
 - Thêm, xóa, sửa sản phẩm.
 - Chức năng tìm kiếm và thống kê.
@@ -21,16 +21,16 @@ Trong những năm gần đây, ngành Kỹ Thuật Phần Mềm đã phát tri�
 #### MỤC TIÊU:
 Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm trực tuyến, giúp khách hàng dễ dàng tìm kiếm và lựa chọn sản phẩm, tiết kiệm thời gian và chi phí.
 
-### Tác giả
+### TÁC GIẢ
 
-- Võ Minh Phúc - Đồng tác giả: [GitHub](https://github.com/phuclemon)
+- Võ Minh Phúc - Tác giả chính: [GitHub](https://github.com/phuclemon)
 - Nguyễn Thanh Bình - Đồng tác giả: [GitHub](https://github.com/thanhbinhtest)
 - Trần Đăng Khôi - Đồng tác giả: [GitHub](https://github.com/Trandangkhoihp193)
 - Thới Trần Ngọc Thạch - Đồng tác giả: [GitHub](https://github.com/ngocthach041104)
 - Nguyễn Văn Thanh Nhã - Đồng tác giả: [GitHub](https://github.com/nhavan248)
 
 
-### Kiến thức áp dụng
+### KIẾN THỨC ÁP DỤNG
 
 - **Kiến trúc MVC**: Tổ chức code theo mô hình Model-View-Controller (MVC) để dễ dàng quản lý và mở rộng các thành phần của ứng dụng. Phân tách rõ ràng giữa phần hiển thị (Views), logic nghiệp vụ (Controllers), và dữ liệu (Models).
 - **PHP và MySQL**: Sử dụng PHP để phát triển back-end và kết nối cơ sở dữ liệu MySQL, quản lý dữ liệu sản phẩm, người dùng và đơn hàng. Viết các truy vấn SQL để xử lý dữ liệu và thực hiện các thao tác CRUD (Create, Read, Update, Delete).
@@ -42,7 +42,7 @@ Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm tr
 - **Bảo mật và xử lý thông tin nhạy cảm**: Sử dụng .htaccess để bảo vệ và cấu hình máy chủ, tăng cường bảo mật cho ứng dụng.
 
 
-### Triển khai
+### TRIỂN KHAI
 
 #### Nền tảng xây dựng:
 
@@ -105,7 +105,7 @@ Fanpage: [](#)
 - Kết nối Api vơi VNPay để thanh toán trực tuyến
 - Kết nối với các nhãn hiệu để đưa trang Web sử dụng thực tế
 
-### Lời cảm ơn
+### LỜI CẢM ƠN
 
 Chúng em xin cảm ơn thầy Nguyễn Mạnh Tuấn đã tận tình hướng dẫn và giúp đỡ trong suốt quá trình học tập và thực hiện đề tài.
 
