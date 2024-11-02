@@ -39,8 +39,7 @@ Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm tr
 - **Quản lý giỏ hàng**: Tạo chức năng giỏ hàng cho phép khách hàng thêm, sửa, xóa các sản phẩm trước khi thanh toán.
 - **Quản lý đơn hàng**: Xây dựng chức năng quản lý đơn hàng, theo dõi trạng thái và chi tiết đơn hàng cho từng khách hàng.
 - **Tìm kiếm và thống kê**: Tạo chức năng tìm kiếm sản phẩm và thống kê các thông tin quan trọng, hỗ trợ quản lý hàng hóa.
-- **Bảo mật và xử lý thông tin nhạy cảm**: Sử dụng .htaccess để bảo vệ và cấu hình máy chủ, tăng cường bảo mật cho ứng dụng.
-
+- **Thiết kế trang Web**: Xây dựng bảng màu sắc, icon, lựa chọn các hiệu ứng sao cho đồng bộ.
 
 ### TRIỂN KHAI
 
