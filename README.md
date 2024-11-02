@@ -49,7 +49,7 @@ Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm tr
 - **Back-end**: PHP (theo mô hình MVC) với Models, Views, Controllers
 - **Cơ sở dữ liệu**: MySQL (được cấu hình trên Hostinger để lưu trữ thông tin người dùng, sản phẩm, giỏ hàng, đơn hàng và các thông tin khác.)
 - **Thư viện bổ sung**: Bootstrap (cho giao diện), jQuery (cho các thành phần động)
-- **Hosting**: Website đã được triển khai trên Hostinger với domain **:vysoul.com**
+- **Hosting**: Website đã được triển khai trên Hostinger với domain: **vysoul.com**
 
 
 #### Lý do chọn PHP:
