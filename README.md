@@ -104,7 +104,7 @@ Fanpage: [](#)
 - Kết nối Api vơi VNPay để thanh toán trực tuyến
 - Kết nối với các nhãn hiệu để đưa trang Web sử dụng thực tế
 
-## LỜI CẢM ƠN
-
+##
+### LỜI CẢM ƠN
 Chúng em xin cảm ơn thầy Nguyễn Mạnh Tuấn đã tận tình hướng dẫn và giúp đỡ trong suốt quá trình học tập và thực hiện đề tài.
 
