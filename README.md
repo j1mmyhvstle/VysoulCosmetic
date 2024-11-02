@@ -85,7 +85,7 @@ Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm tr
 
 ### Kênh Truyền Thông
 
-Fanpage: [](#)
+Fanpage: [facebook.com/vysoulCosmetic](#)
 
 ### Đóng góp ý kiến
 
