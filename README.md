@@ -101,7 +101,7 @@ Fanpage: [facebook.com/vysoulCosmetic](#)
 - Tăng cường bảo mật cho trang Web
 - Cải tiến Responsive mượt mà hơn
 - Hoàn thành chức năng tóm tắt thông tin ở trang Home của Admin
-- Kết nối Api vơi VNPay để thanh toán trực tuyến
+- Kết nối API với VNPay để thanh toán trực tuyến
 - Kết nối với các nhãn hiệu để đưa trang Web sử dụng thực tế
 
 ##
