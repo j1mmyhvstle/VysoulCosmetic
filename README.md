@@ -3,10 +3,6 @@
 
 ## Tên đề tài: Xây dựng trang web bán hàng - VySoul Cosmetic
 
-### Ngành Kỹ Thuật Phần Mềm
-
-Trong những năm gần đây, ngành Kỹ Thuật Phần Mềm đã phát triển vượt bậc cả trong nước và quốc tế, góp phần đáng kể vào sự phát triển kinh tế. Do đó, nhu cầu tin học hóa các chương trình quản lý hàng hóa trở nên cần thiết nhằm tối ưu hóa quản lý, nâng cao hiệu suất và tiết kiệm thời gian cho con người.
-
 ### Mô tả và mục tiêu dự án
 
 #### Mô tả:
