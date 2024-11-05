@@ -47,7 +47,6 @@ Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm tr
 - **Thư viện bổ sung**: Bootstrap (cho giao diện), jQuery (cho các thành phần động)
 - **Hosting**: Website đã được triển khai trên Hostinger với domain: **vysoul.com**
 
-
 #### Lý do chọn PHP:
 
 - **PHP** là ngôn ngữ lập trình phía server phổ biến, đặc biệt được ưu tiên trong phát triển các trang web động như hệ thống quản lý bán hàng. PHP tương thích tốt với nhiều hệ quản trị cơ sở dữ liệu, dễ học và có nhiều thư viện hỗ trợ phát triển ứng dụng web.
@@ -60,12 +59,10 @@ Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm tr
 #### Lý do chọn HTML, CSS, và JavaScript:
 
 - **Lý do chọn**:
-    HTML: Ngôn ngữ đánh dấu tiêu chuẩn để tạo cấu trúc trang web.
-    CSS: Được sử dụng để tạo kiểu và làm cho trang web thân thiện và hấp dẫn hơn về mặt thẩm mỹ.
+    HTML: được viết tắt của cụm từ Hypertext Markup Language là gôn ngữ đánh dấu tiêu chuẩn để tạo cấu trúc trang web.
+    CSS: viết tắt của Cascading Style Sheets được sử dụng để tạo kiểu và làm cho trang web thân thiện và hấp dẫn hơn về mặt thẩm mỹ.
     JavaScript: Được sử dụng để tạo các hiệu ứng động, giúp cải thiện trải nghiệm người dùng.
 - **Ứng dụng trong dự án**: HTML xây dựng cấu trúc của trang web, CSS giúp tạo phong cách và bố cục hấp dẫn, trong khi JavaScript xử lý các thao tác tương tác trên trang như tìm kiếm sản phẩm, thêm sản phẩm vào giỏ hàng, và thực hiện các xác thực cơ bản.
-
-
 
 ### Tài Liệu Thiết Kế
 
