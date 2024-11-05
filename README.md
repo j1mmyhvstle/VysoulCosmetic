@@ -17,7 +17,7 @@
 #### MỤC TIÊU:
 Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm trực tuyến, giúp khách hàng dễ dàng tìm kiếm và lựa chọn sản phẩm, tiết kiệm thời gian và chi phí.
 
-### TÁC GIẢ
+### TÁC GIẢ:
 
 - Võ Minh Phúc - Tác giả chính: [GitHub](https://github.com/phuclemon)
 - Nguyễn Thanh Bình - Đồng tác giả: [GitHub](https://github.com/thanhbinhtest)
