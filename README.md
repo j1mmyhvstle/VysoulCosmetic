@@ -102,5 +102,5 @@ Fanpage: [facebook.com/vysoulCosmetic](#)
 
 ##
 ### LỜI CẢM ƠN
-Chúng em xin cảm ơn thầy Nguyễn Mạnh Tuấn đã tận tình hướng dẫn và giúp đỡ trong suốt quá trình học tập và thực hiện đề tài.
+Chúng em xin chân thành cảm ơn thầy Nguyễn Mạnh Tuấn đã tận tình hướng dẫn và giúp đỡ trong suốt quá trình học tập và thực hiện đề tài.
 
