@@ -64,26 +64,8 @@ Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm tr
     JavaScript: Được sử dụng để tạo các hiệu ứng động, giúp cải thiện trải nghiệm người dùng.
 - **Ứng dụng trong dự án**: HTML xây dựng cấu trúc của trang web, CSS giúp tạo phong cách và bố cục hấp dẫn, trong khi JavaScript xử lý các thao tác tương tác trên trang như tìm kiếm sản phẩm, thêm sản phẩm vào giỏ hàng, và thực hiện các xác thực cơ bản.
 
-### Tài Liệu Thiết Kế
-
-[Xem Tại Đây](#)
-
-### Tài liệu cho nhà phát triển
-
-[Xem Tại Đây](#)
-
-### Tài liệu cho người dùng cuối
-
-[Xem Tại Đây](#)
-
-### Kênh Truyền Thông
-
-Fanpage: [facebook.com/vysoulCosmetic](#)
-
-### Đóng góp ý kiến
-
-[Xem Tại Đây](#)
-
+Hướng dẫn chạy code
+https://docs.google.com/document/d/1m9XFR-ZSwTd7gptHeqW1VLMTOnnaVlITiYHDIdBmsJk/edit?tab=t.0
 ### Danh sách lỗi
 
 - Một số hiệu ứng chưa được mượt
