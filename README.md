@@ -64,7 +64,7 @@ Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm tr
     JavaScript: Được sử dụng để tạo các hiệu ứng động, giúp cải thiện trải nghiệm người dùng.
 - **Ứng dụng trong dự án**: HTML xây dựng cấu trúc của trang web, CSS giúp tạo phong cách và bố cục hấp dẫn, trong khi JavaScript xử lý các thao tác tương tác trên trang như tìm kiếm sản phẩm, thêm sản phẩm vào giỏ hàng, và thực hiện các xác thực cơ bản.
 
-Hướng dẫn chạy code
+**Hướng dẫn chạy code**
 https://docs.google.com/document/d/1m9XFR-ZSwTd7gptHeqW1VLMTOnnaVlITiYHDIdBmsJk/edit?tab=t.0
 ### Danh sách lỗi
 
