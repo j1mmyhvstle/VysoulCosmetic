@@ -17,15 +17,6 @@
 #### MỤC TIÊU:
 Xây dựng website bán hàng đáp ứng nhu cầu quản lý và mua sắm trực tuyến, giúp khách hàng dễ dàng tìm kiếm và lựa chọn sản phẩm, tiết kiệm thời gian và chi phí.
 
-### TÁC GIẢ:
-
-- Võ Minh Phúc - Tác giả chính: [GitHub](https://github.com/phuclemon)
-- Nguyễn Thanh Bình - Đồng tác giả: [GitHub](https://github.com/thanhbinhtest)
-- Trần Đăng Khôi - Đồng tác giả: [GitHub](https://github.com/Trandangkhoihp193)
-- Thới Trần Ngọc Thạch - Đồng tác giả: [GitHub](https://github.com/ngocthach041104)
-- Nguyễn Văn Thanh Nhã - Đồng tác giả: [GitHub](https://github.com/nhavan248)
-
-
 ### KIẾN THỨC ÁP DỤNG
 
 - **Kiến trúc MVC**: Tổ chức code theo mô hình Model-View-Controller (MVC) để dễ dàng quản lý và mở rộng các thành phần của ứng dụng. Phân tách rõ ràng giữa phần hiển thị (Views), logic nghiệp vụ (Controllers), và dữ liệu (Models).
